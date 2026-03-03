@@ -10,8 +10,8 @@ Technical Proficiency
 * **Frameworks & DevOps:** TensorFlow Lite, TinyML, Docker, GitHub Actions (CI/CD)
 
 Featured Engineering Projects
-**1.Cognitive Agent Syndicate (https://github.com/nolanefe/Cognitive-Agent-Syndicate)**
-*An autonomous multi-agent framework utilizing LLM-based reasoning to architect and generate scalable microservices.*
+**1.Cognitive Agent Syndicate (https://github.com/nolanefe/Cognitive-Agent-Syndicate)**  
+*An autonomous multi-agent framework utilizing LLM-based reasoning to architect and generate scalable microservices.*    
 * **Domain:** AI Infrastructure & System Design
 * **Tech Stack:** Python, AutoGen, OpenAI API, GitHub Actions (CI/CD)
 * **Key Feature:** Automated code generation orchestrated by LLM-powered virtual architects.

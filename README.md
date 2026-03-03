@@ -11,7 +11,7 @@ Technical Proficiency
 
 Featured Engineering Projects
 
-**1.Cognitive Agent Syndicate  
+1. **Cognitive Agent Syndicate**  
 (https://github.com/nolanefe/Cognitive-Agent-Syndicate)**  
 *An autonomous multi-agent framework utilizing LLM-based reasoning to architect and generate scalable microservices.*  
 

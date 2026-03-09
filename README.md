@@ -19,6 +19,14 @@ Featured Engineering Projects
 * **Tech Stack:** Python, AutoGen, OpenAI API, GitHub Actions (CI/CD)
 * **Key Feature:** Automated code generation orchestrated by LLM-powered virtual architects.
 
+2. **Low-Latency RL Market Maker**
+(https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**
+*A high-performance matching engine integrated with a custom Q-Learning algorithm for rapid, memory-safe trading execution.*
+
+* **Domain:** Algorithmic Trading & Low-Latency Systems
+* **Tech Stack:** C++17, CMake, Reinforcement Learning
+* **Key Feature:** Zero-leak memory management and $O(1)$ state hashing to execute complex AI logic in environments where standard models are too slow.
+
 **How to reach me:**
 
 * **LinkedIn:** [linkedin.com/in/efe-elbirlik](https://linkedin.com/in/efe-elbirlik)

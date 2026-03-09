@@ -12,14 +12,15 @@ Technical Proficiency
 Featured Engineering Projects
 
 1. **Cognitive Agent Syndicate**  
-(https://github.com/nolanefe/Cognitive-Agent-Syndicate)**  
+(https://github.com/nolanefe/Cognitive-Agent-Syndicate)  
 *An autonomous multi-agent framework utilizing LLM-based reasoning to architect and generate scalable microservices.*  
 
 * **Domain:** AI Infrastructure & System Design
 * **Tech Stack:** Python, AutoGen, OpenAI API, GitHub Actions (CI/CD)
 * **Key Feature:** Automated code generation orchestrated by LLM-powered virtual architects.
 
-2. **Low-Latency RL Market Maker (https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**<br>
+2. **Low-Latency RL Market Maker
+(https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**<br>
 *A high-performance matching engine integrated with a custom Q-Learning algorithm for rapid, memory-safe trading execution.*
 
 * **Domain:** Algorithmic Trading & Low-Latency Systems

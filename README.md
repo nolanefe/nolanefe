@@ -20,8 +20,6 @@ Featured Engineering Projects
 * **Key Feature:** Automated code generation orchestrated by LLM-powered virtual architects.
 
 2. **Low-Latency RL Market Maker**
-(https://github.com/nolanefe/Cognitive-Agent-Syndicate)**  
-*An autonomous multi-agent framework utilizing LLM-based reasoning to architect and generate scalable microservices.*  
 (https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**
 *A high-performance matching engine integrated with a custom Q-Learning algorithm for rapid, memory-safe trading execution.*
 

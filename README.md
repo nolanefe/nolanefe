@@ -20,8 +20,8 @@ Featured Engineering Projects
 * **Key Feature:** Automated code generation orchestrated by LLM-powered virtual architects.
 
 2. **Low-Latency RL Market Maker**
-3. (https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**
-4. *A high-performance matching engine integrated with a custom Q-Learning algorithm for rapid, memory-safe trading execution.*
+(https://github.com/nolanefe/Low-Latency-RL-Market-Maker)**
+*A high-performance matching engine integrated with a custom Q-Learning algorithm for rapid, memory-safe trading execution.*
 
 * **Domain:** Algorithmic Trading & Low-Latency Systems
 * **Tech Stack:** C++17, CMake, Reinforcement Learning

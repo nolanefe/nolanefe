@@ -35,7 +35,13 @@ Featured Engineering Projects
 * **Tech Stack:** Go (Golang), GitHub Actions (CI/CD)
 * **Key Feature:** Thread-safe memory management using sync.RWMutex to allow simultaneous search operations across partitioned vector shards.
 
+3. **Distributed Vector Store Lite**
+(https://github.com/nolanefe/Distributed-Vector-Store-Lite)
+*A distributed in-memory database designed for partitioned data sharding and high-concurrency vector retrieval.*
 
+* **Domain:** Database Internals & Concurrent Systems
+* **Tech Stack:** Go (Golang), GitHub Actions (CI/CD)
+* **Key Feature:** Thread-safe memory management using sync.RWMutex to allow simultaneous search operations across partitioned vector shards.
 **How to reach me:**
 
 * **LinkedIn:** [linkedin.com/in/efe-elbirlik](https://linkedin.com/in/efe-elbirlik)

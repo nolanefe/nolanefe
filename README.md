@@ -41,5 +41,5 @@ Featured Engineering Projects
   
 **How to reach me:**
 
-* **LinkedIn:** [linkedin.com/in/efe-elbirlik](https://linkedin.com/in/efe-elbirlik)
+* **LinkedIn:** [linkedin.com/in/nolan-efe-elbirlik](https://linkedin.com/in/nolan-efe-elbirlik)
 * **Email:** [efeelbirlik@gmail.com](mailto:efeelbirlik@gmail.com)

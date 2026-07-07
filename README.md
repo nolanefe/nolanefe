@@ -1,4 +1,4 @@
-Hi, I'm Nolan Efe Elbirlik. I am a **Computer Science & Engineering student** dedicated to the **infrastructure layer of Artificial Intelligence**. While standard development often focuses on the application layer, I build the **high-performance, low-latency distributed systems** required to deploy, optimize, and scale machine learning models in production environments. I specialize in the critical engineering that bridges the gap between theoretical AI models and resilient, real-world execution.
+Hi, I'm Nolan Efe Elbirlik. I am a **Computer Science & Engineering student** focused on building **production-ready AI systems**. I specialize in the engineering required to take machine learning models from theory to real-world execution—structuring **multi-agent reasoning**, designing **robust prompt and context architectures**, and **optimizing API integrations** for reliable performance at scale. My work bridges technical execution with **strategic problem-solving** to ensure LLMs operate dependably in complex environments.
 
 
 Technical Proficiency

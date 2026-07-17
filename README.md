@@ -1,4 +1,4 @@
-Hi, I'm Nolan Efe Elbirlik. I'm a Computer Science & Engineering student. I work on the APIs and workflows that carry an LLM's response into a live product, how a prompt and retrieved context are assembled into what a model actually sees, and the infrastructure that keeps AI systems running reliably in production.
+Hi, I'm Nolan Efe Elbirlik, a Computer Science & Engineering student. I work on the APIs and workflows that carry an LLM's response into a live product, how a prompt and retrieved context are assembled into what a model actually sees, and the infrastructure that keeps AI systems running reliably in production.
 
 
 Technical Proficiency

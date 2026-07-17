@@ -3,11 +3,11 @@ Hi, I'm Nolan Efe Elbirlik. I'm a Computer Science & Engineering student. I work
 
 Technical Proficiency
 
-* **Core Languages:** Python, C++, Go, SQL
-* **Applied AI & LLMs:** RAG, Context Architecture, Autonomous Agents, PyTorch
-* **System Architecture:** Distributed Systems, API Integration, Low-Latency Design, gRPC, Multithreading
-* **Data & Knowledge Graphs:** Vector Databases (Pinecone/Milvus), Graph Databases (Neo4j), Redis, PostgreSQL
-* **MLOps & Deployment:** Docker, GitHub Actions (CI/CD), TensorFlow Lite, TinyML
+* **Applied AI & LLMs:** RAG (Retrieval-Augmented Generation), OpenAI/Anthropic APIs, LangChain, Model Steering & Behavior Tuning, Retrieval & Grounding Strategy, Function Calling & Structured Output
+* **Core Languages:** Python, SQL, JavaScript/TypeScript
+* **System Architecture:** Distributed Systems, API Integration & Orchestration, gRPC, AWS Bedrock
+* **Data & Knowledge Graphs:** Vector Databases (Pinecone/Milvus), Graph Databases (Neo4j)
+* **MLOps & Deployment:** Docker, GitHub Actions (CI/CD), LangSmith
 
 
 Featured Engineering Projects

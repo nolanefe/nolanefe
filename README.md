@@ -1,4 +1,4 @@
-Hi, I'm Nolan Efe Elbirlik. I am a **Computer Science & Engineering student** focused on building **production-ready AI systems**. I specialize in the engineering required to take machine learning models from theory to real-world execution—structuring **multi-agent reasoning**, designing **robust prompt and context architectures**, and **optimizing API integrations** for reliable performance at scale. My work bridges technical execution with **strategic problem-solving** to ensure LLMs operate dependably in complex environments.
+Hi, I'm Nolan Efe Elbirlik. I'm a Computer Science & Engineering student. I work on the APIs and workflows that carry an LLM's response into a live product, how a prompt and retrieved context are assembled into what a model actually sees, and the infrastructure that keeps AI systems running reliably in production.
 
 
 Technical Proficiency

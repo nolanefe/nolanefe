@@ -4,7 +4,7 @@ Hi, I'm Nolan Efe Elbirlik — a Computer Science & Engineering student. I work 
 Technical Proficiency
 
 * **Applied AI & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context 
-* **Engineering (Few-Shot, Chain-of-Thought), Function Calling & Structured Output
+Engineering (Few-Shot, Chain-of-Thought), Function Calling & Structured Output
 * **Core Languages:** Python, SQL, JavaScript/TypeScript, C/C++
 * **System Architecture:** API Integration & Orchestration, Claude Code, Cursor
 * **Data & Knowledge Graphs:** Graph Databases (Neo4j)

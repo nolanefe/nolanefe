@@ -1,15 +1,13 @@
 Hi, I'm Nolan Efe Elbirlik — a Computer Science & Engineering student interested in turning AI capabilities into reliable systems. My work spans shaping what models see and how they behave, evaluating their outputs, and building product workflows, retrieval systems, and inference infrastructure around AI models.
 
+## Technical Proficiency
 
-Technical Proficiency
-
-* **AI Systems & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context Engineering, Structured Outputs, Tool/Function Calling, Agent Workflows, LLM Evaluation
-* **Languages:** Python, TypeScript/JavaScript, SQL, C/C++
-* **Backend & Integration:** FastAPI, REST APIs, gRPC, Pydantic, API Orchestration
-* **Retrieval & Data:** Neo4j, Knowledge Graphs, Graph RAG, SQLite
-* **Reliability & Evaluation:** RAGAS, Deterministic Validation, Benchmarking, Failure Analysis
-* **Testing & Delivery:** pytest, Playwright, GitHub Actions, Docker
-
+- **AI Systems & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context Engineering, Structured Outputs, Tool/Function Calling, Agent Workflows, LLM Evaluation
+- **Languages:** Python, TypeScript/JavaScript, SQL, C/C++
+- **Backend & Integration:** FastAPI, REST APIs, gRPC, Pydantic, API Orchestration
+- **Retrieval & Data:** Neo4j, Knowledge Graphs, Graph RAG, SQLite
+- **Reliability & Evaluation:** RAGAS, Deterministic Validation, Benchmarking, Failure Analysis
+- **Testing & Delivery:** pytest, Playwright, GitHub Actions, Docker
 
 ## Featured AI Systems Projects
 
@@ -19,7 +17,7 @@ AI-assisted engineering workflow that turns GitHub issues into structured implem
 
 **Tech Stack:** FastAPI · Next.js · OpenAI · Pydantic · GitHub API · Playwright
 
-Built schema-validated analysis across **6 engineering outputs**, with concurrency-aware GitHub write-back and **72 backend/E2E test cases**.
+Built schema-validated analysis across **6 engineering outputs**, with concurrency-aware GitHub write-back and **72 automated test cases (61 backend + 11 E2E)**.
 
 ---
 
@@ -49,9 +47,8 @@ AI-assisted product discovery system for evidence-grounded personas, controlled 
 
 **Tech Stack:** FastAPI · Next.js · OpenAI · SQLAlchemy · Pydantic · Playwright
 
-Designed **4 independent AI-provider boundaries** and validated the platform with **668 backend tests at 94% documented coverage + 21 E2E tests**.
+Designed **4 independent AI-provider boundaries** and validated the platform with **668 backend tests at 94% documented coverage and 21 E2E tests**.
 
-  
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/nolan-efe-elbirlik](https://linkedin.com/in/nolan-efe-elbirlik)

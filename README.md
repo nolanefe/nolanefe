@@ -1,14 +1,14 @@
-Hi, I'm Nolan Efe Elbirlik — a Computer Science & Engineering student. I work on the APIs and workflows that carry an LLM's response into a live product, how a prompt and retrieved context are assembled into what a model actually sees, and the infrastructure that keeps AI systems running reliably in production.
+Hi, I'm Nolan Efe Elbirlik — a Computer Science & Engineering student interested in turning AI capabilities into reliable systems. My work spans shaping what models see and how they behave, evaluating their outputs, and building product workflows, retrieval systems, and inference infrastructure around AI models.
 
 
 Technical Proficiency
 
-* **Applied AI & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context 
-Engineering (Few-Shot, Chain-of-Thought), Function Calling & Structured Output
-* **Core Languages:** Python, SQL, JavaScript/TypeScript, C/C++
-* **System Architecture:** API Integration & Orchestration, Claude Code, Cursor
-* **Data & Knowledge Graphs:** Graph Databases (Neo4j)
-* **MLOps & Deployment:** Docker, GitHub Actions (CI/CD), RAGAS
+* **AI Systems & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context Engineering, Structured Outputs, Tool/Function Calling, Agent Workflows, LLM Evaluation
+* **Languages:** Python, TypeScript/JavaScript, SQL, C/C++
+* **Backend & Integration:** FastAPI, REST APIs, gRPC, Pydantic, API Orchestration
+* **Retrieval & Data:** Neo4j, Knowledge Graphs, Graph RAG, SQLite
+* **Reliability & Evaluation:** RAGAS, Deterministic Validation, Benchmarking, Failure Analysis
+* **Testing & Delivery:** pytest, Playwright, GitHub Actions, Docker
 
 
 Featured Engineering Projects

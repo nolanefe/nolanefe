@@ -2,10 +2,11 @@ Hi, I'm Nolan Efe Elbirlik — a Computer Science & Engineering student interest
 
 ## Technical Proficiency
 
-- **AI Systems & LLMs:** RAG, LangChain, LangGraph, MCP, A2A, Prompt & Context Engineering, Structured Outputs, Tool/Function Calling, Agent Workflows, LLM Evaluation
+- **AI Systems & LLMs:** RAG, Prompt & Context Engineering, Structured Outputs, Tool/Function Calling, Agent Workflows, LLM Evaluation
+- **Frameworks & Protocols:** LangChain, LangGraph, MCP, A2A
 - **Languages:** Python, TypeScript/JavaScript, SQL, C/C++
-- **Backend & Integration:** FastAPI, REST APIs, gRPC, Pydantic, API Orchestration
-- **Retrieval & Data:** Neo4j, Knowledge Graphs, Graph RAG, SQLite
+- **Backend & Integration:** FastAPI, REST APIs, OpenAI API, gRPC, Pydantic, API Orchestration
+- **Retrieval & Data:** Neo4j, Cypher, Knowledge Graphs, Graph RAG, SQLite
 - **Reliability & Evaluation:** RAGAS, Deterministic Validation, Benchmarking, Failure Analysis
 - **Testing & Delivery:** pytest, Playwright, GitHub Actions, Docker
 

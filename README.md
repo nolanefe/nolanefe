@@ -32,7 +32,19 @@ Ran a controlled **16-call GPT-5-mini benchmark**, where the stronger prompt ach
 
 ---
 
-### 3. [Graph RAG Inference Engine](https://github.com/nolanefe/graph-rag-inference-engine)
+### 3. [Cognitive Agent Syndicate](https://github.com/nolanefe/cognitive-agent-syndicate)
+
+Multi-agent AI workflow that coordinates architecture, implementation, and review through structured handoffs, deterministic validation, and bounded repair.
+
+**Tech Stack:** Python · Pydantic · OpenAI · pytest · GitHub Actions
+
+Built three agents—Architect, Implementer, and Reviewer—with typed handoffs, **11 deterministic validation gates**, and at most **1 bounded repair attempt**.
+
+In an exploratory **18-trial benchmark**, the repair-enabled workflow succeeded on **5/6 tasks vs. 1/6** for the single-agent baseline.
+
+---
+
+### 4. [Graph RAG Inference Engine](https://github.com/nolanefe/graph-rag-inference-engine)
 
 Schema-aware Graph RAG pipeline combining constrained LLM planning, deterministic Cypher validation, Neo4j retrieval, provenance, and grounded synthesis.
 
@@ -42,7 +54,7 @@ Validated with **200 passing tests** and a **60-request GPT-4o-mini benchmark**,
 
 ---
 
-### 4. [AI Product Experiment Platform](https://github.com/nolanefe/ai-product-experiment-platform)
+### 5. [AI Product Experiment Platform](https://github.com/nolanefe/ai-product-experiment-platform)
 
 AI-assisted product discovery system for evidence-grounded personas, controlled variant simulations, deterministic analytics, and real-user comparison.
 
@@ -53,4 +65,4 @@ Designed **4 independent AI-provider boundaries** and validated the platform wit
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/nolan-efe-elbirlik](https://linkedin.com/in/nolan-efe-elbirlik)
-- **Email:** [efeelbirlik@gmail.com](mailto:efeelbirlik@gmail.com)
+- **Email:** [efeelbirlik@gmail.com](mailto:efeelbirlik.com)

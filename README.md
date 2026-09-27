@@ -34,11 +34,9 @@ Ran a controlled **16-call GPT-5-mini benchmark**, where the stronger prompt ach
 
 ### 3. [Cognitive Agent Syndicate](https://github.com/nolanefe/cognitive-agent-syndicate)
 
-Multi-agent AI workflow that coordinates architecture, implementation, and review through structured handoffs, deterministic validation, and bounded repair.
+Multi-agent AI workflow where Architect, Implementer, and Reviewer agents collaborate through structured handoffs, deterministic validation, and bounded repair.
 
 **Tech Stack:** Python · Pydantic · OpenAI · pytest · GitHub Actions
-
-Built three agents—Architect, Implementer, and Reviewer—with typed handoffs, **11 deterministic validation gates**, and at most **1 bounded repair attempt**.
 
 In an exploratory **18-trial benchmark**, the repair-enabled workflow succeeded on **5/6 tasks vs. 1/6** for the single-agent baseline.
 

@@ -65,4 +65,4 @@ Designed **4 independent AI-provider boundaries** and validated the platform wit
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/nolan-efe-elbirlik](https://linkedin.com/in/nolan-efe-elbirlik)
-- **Email:** [efeelbirlik@gmail.com](mailto:efeelbirlik.com)
+- **Email:** [efeelbirlik@gmail.com](mailto:efeelbirlik@gmail.com)
